@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @joxmode
-- 👀 I’m interested in coding, drawing and creating something new
-- 🌱 I’m currently learning coding and drawing
+- 👋 Hi, I’m @jox
+- tryna keep up with coding idk
+
 
 
 <!---
